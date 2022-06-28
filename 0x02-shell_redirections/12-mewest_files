@@ -1,2 +1,0 @@
-#!/bin/bash
-ls -pAtl | grep -v '/$' | head -10

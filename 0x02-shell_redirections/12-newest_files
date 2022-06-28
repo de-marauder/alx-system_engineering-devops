@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pAtl | grep -v '/$' | head -10
+ls -pAt | grep -v '/$' | head -10
